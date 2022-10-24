@@ -13,17 +13,17 @@
 
 <b>Step 1.</b>&nbsp;&nbsp;Designing and 3D printing the needed components
 <br>
-<p align="center"><img src="images%20for%20GitHub/assembly%20from%20front%20isometry.JPG" width="360px"></p>
+<p align="center"><img src="images%20for%20GitHub/assembly%20from%20front%20isometry.JPG" width="400px"></p>
 <br>
 
 <b>Step 2.</b>&nbsp;&nbsp;Assembling the components into a system
 <br>
-<p align="center"><img src="images%20for%20GitHub/real%20assembly.JPG" width="480px"></p>
+<p align="center"><img src="images%20for%20GitHub/real%20assembly.JPG" width="540px"></p>
 <br>
 
 <b>Step 3.</b>&nbsp;&nbsp;Identifying the motor model
 <br>
-<p align="center"><img src="images%20for%20GitHub/motor%20identification%20-%20motor%20rotation%20speed.png" width="480px"></p>
+<p align="center"><img src="images%20for%20GitHub/motor%20identification%20-%20motor%20rotation%20speed.png" width="540px"></p>
 <br>
 
 <b>Step 4.</b>&nbsp;&nbsp;Modeling the ball and beam system
@@ -42,8 +42,8 @@
 
 <b>Step 7.</b>&nbsp;&nbsp;Modeling the motor static friction
 <br>
-<p align="center"><img src="images%20for%20GitHub/friction%20identification%20-%20motor%20rotation%20speed.png" width="480px"></p>
-<p align="center"><img src="images%20for%20GitHub/friction%20identification%20-%20real%20voltage.png" width="480px"></p>
+<p align="center"><img src="images%20for%20GitHub/friction%20identification%20-%20motor%20rotation%20speed.png" width="540px"></p>
+<p align="center"><img src="images%20for%20GitHub/friction%20identification%20-%20real%20voltage.png" width="540px"></p>
 <br>
 
 
@@ -54,14 +54,14 @@
 
 <b>Step 9.</b>&nbsp;&nbsp;Analyzing the results for disturbance compensation (shown for EKF and state-space controller)
 <br>
-<p align="center"><img src="images%20for%20GitHub/state%20space%20Kalman%20control%20-%20ball%20position.png" width="480px"></p>
-<p align="center"><img src="images%20for%20GitHub/state%20space%20Kalman%20control%20-%20modeled%20voltage.png" width="480px"></p>
+<p align="center"><img src="images%20for%20GitHub/state%20space%20Kalman%20control%20-%20ball%20position.png" width="540px"></p>
+<p align="center"><img src="images%20for%20GitHub/state%20space%20Kalman%20control%20-%20modeled%20voltage.png" width="540px"></p>
 <br>
 
 <b>Step 10.</b>&nbsp;&nbsp;Analyzing the results for reference tracking (shown for EKF and state-space controller)
 <br>
-<p align="center"><img src="images%20for%20GitHub/state%20space%20tracking%20control%20-%20ball%20position.png" width="480px"></p>
-<p align="center"><img src="images%20for%20GitHub/state%20space%20tracking%20control%20-%20modeled%20voltage.png" width="480px"></p>
+<p align="center"><img src="images%20for%20GitHub/state%20space%20tracking%20control%20-%20ball%20position.png" width="540px"></p>
+<p align="center"><img src="images%20for%20GitHub/state%20space%20tracking%20control%20-%20modeled%20voltage.png" width="540px"></p>
 <br>
 
 <b>Step 11.</b>&nbsp;&nbsp;Choosing the system with state-space controller and EKF due to best results
